@@ -11,6 +11,9 @@ le Système de signalisation routière ou le systeme d'éclairage traite les con
  Il permet à un objet de modifier son comportement lorsque son état interne change. Son état change rouge, jaune,  à vert
  en consèquence le comportement du traffic change.
  La suite ci-dessous montre les resulats de test.
+ ## Diagramme de Classe
+ ![diagramme de classe](https://user-images.githubusercontent.com/48572427/56290570-f50baf00-6112-11e9-9577-c4598d0243d0.PNG)
+
   ## Résultats
 ils consitent les tests après implementation de chaque état du feu
 
